@@ -1,4 +1,4 @@
-# World_Grey_Line_Map_Nextion_Screen
+# World_Grey_Line_Map_Nextion_Screen_GB
 A (WGLMNS) World grey line MAP with a stand alone Nextion screen (without any computer) refresh every 5 minutes
 
 
